@@ -1,5 +1,4 @@
-#include<iostream>
-using namespace std;
+#include"lib.h"
 int main() {
 
 	return 0;
